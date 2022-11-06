@@ -1,0 +1,25 @@
+{
+  "name": "soda-dimmed",
+  "displayName": "Soda Dimmed",
+  "description": "A Dark theme made for oled users with enough highlight to look cool",
+  "version": "0.0.1",
+  "author": {
+    "name": "Siddharth Sinha",
+    "email": "siddevs@outlook.com"
+  },
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soda Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Soda Dimmed-color-theme.json"
+      }
+    ]
+  }
+}
