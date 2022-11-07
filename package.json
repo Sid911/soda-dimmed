@@ -7,6 +7,30 @@
     "name": "Siddharth Sinha",
     "email": "siddevs@outlook.com"
   },
+  "publisher": "siddevs",
+  "icon": "images/soda.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sid911/soda-dimmed"
+  },
+  "bugs": {
+    "url": "https://github.com/Sid911/soda-dimmed/issues",
+    "email": "siddevs@outlook.com"
+  },
+  "homepage": "https://github.com/Sid911/soda-dimmed/",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Siddharth",
+    "oled",
+    "black",
+    "dimmed"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
